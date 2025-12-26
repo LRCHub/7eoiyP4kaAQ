@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ジコチューで行こう！",
+  "base_artist": "乃木坂46",
+  "createdAt": "2025-12-26T05:07:31.290752Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ジコチューで行こう!",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/01_ジコチューで行こう!_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ジコチューで行こう",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/02_ジコチューで行こう_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ジコチューで行こう!",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/03_ジコチューで行こう!_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ジコチューで行こう!",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/04_ジコチューで行こう!_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ジコチューで行こう！",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/05_ジコチューで行こう!_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ジコチューで行こう！",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/06_ジコチューで行こう!_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ジコチューで行こう!",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/07_ジコチューで行こう!_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ジコチューで行こう！",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/08_ジコチューで行こう!_Nogizaka46.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ジコチューで行こう!",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_01_ジコチューで行こう!_乃木坂46.txt"
+    }
+  ]
+}
